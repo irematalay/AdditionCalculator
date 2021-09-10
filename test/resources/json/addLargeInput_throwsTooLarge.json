@@ -1,0 +1,6 @@
+{
+  "title": "add number greater than 1000 throws TooLarge",
+  "input": [1001,1],
+  "errorExpected": true,
+  "with": "TooLarge"
+}

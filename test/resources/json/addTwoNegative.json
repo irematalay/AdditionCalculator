@@ -1,0 +1,6 @@
+{
+  "title": "add two negative numbers",
+  "input": [-1,-2],
+  "errorExpected": false,
+  "with": -3
+}

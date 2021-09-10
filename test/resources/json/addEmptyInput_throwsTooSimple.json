@@ -1,0 +1,6 @@
+{
+  "title": "add empty array throws TooSimple error",
+  "input": [],
+  "errorExpected": true,
+  "with": "TooSimple"
+}
